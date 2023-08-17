@@ -1,3 +1,10 @@
+#Install Framework7
+
+Team work
+members:
+- Jorge Rosario Kevin HenrrY
+- Villena Ynga Kevin Rodrigo
+
 ## Framework7 CLI Options
 
 Framework7 app created with following options:
