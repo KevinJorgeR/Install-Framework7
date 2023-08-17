@@ -1,8 +1,7 @@
-#Install Framework7
-
+# Install Framework7
 Team work
 members:
-- Jorge Rosario Kevin HenrrY
+- Jorge Rosario Kevin Henrry
 - Villena Ynga Kevin Rodrigo
 
 ## Framework7 CLI Options
